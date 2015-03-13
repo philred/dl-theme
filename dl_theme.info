@@ -1,5 +1,5 @@
 name = LSO Theme
-description = A subtheme of Bartik, built for University of Missouri System Digital Library
+description = A subtheme of Bartik, built for University of Missouri System
 package = Core
 version = VERSION
 core = 7.x
